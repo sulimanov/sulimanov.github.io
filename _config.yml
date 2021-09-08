@@ -8,11 +8,11 @@ site-twitter: "https://twitter.com/salefun"
 
 # Author Settings
 author: Alex Sulimanov
-author-img: Alex Sulimanov - Author Photo.png
+author-img: assets/images/avatar.jpg
 about-author: I'm a San Francisco-based entrepreneur, startup consultant & adventurer. 
 social-twitter: salefun
 social-facebook: sulimanov
-social-github: sulimanov.com
+social-github: sulimanov
 social-linkedin: sulimanov
 social-email: alex@sulimanov.com
 

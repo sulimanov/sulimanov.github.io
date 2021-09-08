@@ -1,5 +1,6 @@
 ---
 layout: post
-title: Hello world!
+title: "Welcome to my blog!"
+img: assets/images/hello_world.png
 ---
-Hello world!
+Welcome to my personal blog.
