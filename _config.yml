@@ -4,13 +4,13 @@ description: > # this means to ignore newlines until "baseurl:"
 permalink: ':title/'
 baseurl: ""
 url: "https://sulimanov.github.io"
-site-twitter: "https://twitter.com/salefun"
+site-twitter: "https://twitter.com/alex_sulimanov"
 
 # Author Settings
 author: Alex Sulimanov
 author-img: avatar.jpg
 about-author: San Francisco-based entrepreneur, ML/AI engineering leader & adventurer.
-social-twitter: alexsulimanov
+social-twitter: alex_sulimanov
 social-facebook: asulimanov
 social-github: sulimanov
 social-linkedin: sulimanov
