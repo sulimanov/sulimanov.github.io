@@ -19,8 +19,15 @@ social-email: alex@sulimanov.com
 # Disqus
 discus-identifier: alexsulimanov
 
+# Google Analytics
+google_analytics: G-PYB7X4649B
+
 # Tracker
 analytics: # Google Analytics
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-PYB7X4649B"
+    anonymize_ip: false # default
 
 # Build Settings
 markdown: kramdown
